@@ -1,4 +1,4 @@
-# Customized-LLM-Chatbot-L.O.U.X
+# Customized-LLM-Prompt-L.O.U.X
 Customized LLM Chatbot
 
 1-Installing Required Libraries from Hugging Face Hub:
